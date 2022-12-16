@@ -1,0 +1,43 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.2",
+    "types": [],
+    "structs": [
+        {
+            "name": "getvalue1",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "getvalue2",
+            "base": "",
+            "fields": []
+        }
+    ],
+    "actions": [
+        {
+            "name": "getvalue1",
+            "type": "getvalue1",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "getvalue2",
+            "type": "getvalue2",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [],
+    "kv_tables": {},
+    "ricardian_clauses": [],
+    "variants": [],
+    "action_results": [
+        {
+            "name": "getvalue1",
+            "result_type": "int64"
+        },
+        {
+            "name": "getvalue2",
+            "result_type": "int64"
+        }
+    ]
+}
